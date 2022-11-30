@@ -1,0 +1,56 @@
+/*positioning styles*/
+.common{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: aliceblue;
+    border: 2px solid black;
+padding: 5px;
+margin: 5px;
+}
+.headers{
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    text-align: center;
+}
+.footers{
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    text-align: center;
+    font-style: italic;
+    color: darkolivegreen;
+    font-size: small;
+    margin: 0px;
+    border: initial;
+    margin: 0px;
+background-color: initial;
+background-color: white;
+}
+.nav{
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    border: initial;
+
+
+}
+.bodyStuff{
+    border: initial;
+    background-color: initial;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 25px;
+}
+img{
+    width: 19%;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 3px;
+
+}
+.headImage{
+    width: 99%;
+    text-align: center;
+    border: initial;
+    border-bottom: 5px solid black;
+}
